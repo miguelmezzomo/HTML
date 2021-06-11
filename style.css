@@ -74,6 +74,12 @@ body {
     background-repeat: no-repeat;
 }
 
+.seven {
+    color: white;
+    margin-top: 30px;
+
+}
+
 .navbar {
     display: flex;
     height: 100%;
@@ -175,5 +181,9 @@ a {
     width: 300px;
     margin: 0px;
     padding: 0px;
+}
 
+.contact {
+    font-size: x-large;
+    margin-left: 50px;
 }
